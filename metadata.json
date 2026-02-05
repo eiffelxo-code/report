@@ -1,0 +1,5 @@
+{
+  "name": "文旅智能报告系统",
+  "description": "面向文旅厅工作人员的智能化报告生成平台，支持数据分析、图表生成及在线文档编辑。",
+  "requestFramePermissions": []
+}
